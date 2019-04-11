@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\合力\HLTest\HLTest\bin\Debug\HLTest.exe.config
+C:\Users\Administrator\Desktop\合力\HLTest\HLTest\bin\Debug\HLTest.exe
+C:\Users\Administrator\Desktop\合力\HLTest\HLTest\bin\Debug\HLTest.pdb
+C:\Users\Administrator\Desktop\合力\HLTest\HLTest\obj\Debug\HLTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\合力\HLTest\HLTest\obj\Debug\HLTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\合力\HLTest\HLTest\obj\Debug\HLTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\合力\HLTest\HLTest\obj\Debug\HLTest.exe
+C:\Users\Administrator\Desktop\合力\HLTest\HLTest\obj\Debug\HLTest.pdb
+C:\Users\Administrator\Desktop\合力\HLTest\HLTest\obj\Debug\HLTest.TFTForm.resources
